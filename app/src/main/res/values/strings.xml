@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+
+    <string name="label_tasks_title">Tasks</string>
+    <string name="label_task_name">Task Name</string>
+    <string name="hint_enter_task_name">Enter task name</string>
+    <string name="label_deadline">Deadline</string>
+    <string name="label_duration">Duration (days)</string>
+    <string name="hint_duration">e.g., 3</string>
+    <string name="label_descriptions">Descriptions</string>
+    <string name="hint_enter_descriptions">Enter descriptions...</string>
+    <string name="button_add_task">ADD TASK</string>
+    <string name="content_desc_add_task">Add Task</string>
+
+    <string name="label_due_on">Due on: %s</string>
+    <string name="label_days_needed"># Days needed: %d</string>
+    <string name="label_details">Details: %s</string>
+
+    <string name="toast_task_created">A task is just created</string>
+    <string name="toast_fill_all_fields">Please fill all required fields</string>
+
+</resources>
